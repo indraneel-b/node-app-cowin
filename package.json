@@ -1,0 +1,17 @@
+{
+  "name": "node-app-for-cowin",
+  "version": "1.0.0",
+  "description": "Sample app to test node functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.21.1",
+    "dayjs": "1.10.4",
+    "nodemailer": "^6.6.0",
+    "play-sound": "1.1.3"
+  }
+}
